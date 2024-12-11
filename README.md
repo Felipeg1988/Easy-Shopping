@@ -5,6 +5,6 @@
 
 <h2>Tecnologia ultilizadas</h2>
 <br>
-<p>HTML</p>
+<p><strong>HTML<strong/></p>
 <p>CSS</p>
 <img src="https://github.com/Felipeg1988/Easy-Shopping/blob/main/assets/Illustration-3-3.png?raw=true"/>
